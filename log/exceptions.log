@@ -1,0 +1,276 @@
+2023-07-07T02:46:17.216Z error: uncaughtException: Hello
+Error: Hello
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:104:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:15:51.292Z error: uncaughtException: Hello
+Error: Hello
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:101:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:16:31.987Z error: unhandledRejection: woops1
+Error: woops1
+    at C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:107:39
+    at new Promise (<anonymous>)
+    at loginAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:107:5)
+2023-07-07T03:16:32.990Z error: uncaughtException: Hello
+Error: Hello
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:101:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:19:21.123Z error: uncaughtException: err is not defined
+ReferenceError: err is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:102:9)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:19:53.182Z error: uncaughtException: error is not defined
+ReferenceError: error is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:101:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:20:36.121Z error: uncaughtException: Hello
+Error: Hello
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:101:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:21:03.762Z error: uncaughtException: throwrr is not defined
+ReferenceError: throwrr is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:102:9)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:22:08.941Z error: uncaughtException: throwrr is not defined
+ReferenceError: throwrr is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:102:9)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:24:14.465Z error: uncaughtException: throwrr is not defined
+ReferenceError: throwrr is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:102:9)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:47:00.404Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:47:40.260Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:47:52.089Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:48:05.516Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:48:19.095Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:48:27.012Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:48:33.578Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:49:03.255Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:49:56.559Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:164:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:49:56.564Z error: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_writable.js:264:12)
+    at Writable.write (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_writable.js:300:21)
+    at File.log (C:\Users\User\.vscode\express-imtihon\node_modules\winston\lib\winston\transports\file.js:190:34)
+    at ExceptionStream._write (C:\Users\User\.vscode\express-imtihon\node_modules\winston\lib\winston\exception-stream.js:48:29)
+    at doWrite (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:523:35)
+    at addChunk (C:\Users\User\.vscode\express-imtihon\node_modules\readable-stream\lib\_stream_readable.js:279:12)
+2023-07-07T03:50:24.926Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:50:35.297Z error: uncaughtException: throwrr is not defined
+ReferenceError: throwrr is not defined
+    at Timeout._onTimeout (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:102:9)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-07-07T03:51:12.823Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:52:20.496Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:55:03.600Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:56:07.177Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:58:11.479Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:159:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T03:59:08.201Z error: unhandledRejection: ApiError is not defined
+ReferenceError: ApiError is not defined
+    at logoutAdmin (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:160:5)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\.vscode\express-imtihon\node_modules\express\lib\router\index.js:47:12)
+2023-07-07T04:46:17.848Z error: uncaughtException: cookieParser is not defined
+ReferenceError: cookieParser is not defined
+    at Object.<anonymous> (C:\Users\User\.vscode\express-imtihon\app.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-07-07T05:28:49.266Z error: unhandledRejection: author is not defined
+ReferenceError: author is not defined
+    at refreshAdminToken (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:213:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-07T05:30:18.638Z error: unhandledRejection: tokens is not defined
+ReferenceError: tokens is not defined
+    at refreshAdminToken (C:\Users\User\.vscode\express-imtihon\controller\admin.controller.js:226:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
